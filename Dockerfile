@@ -1,2 +1,2 @@
 FROM hshar/webapp
-RUN /var/www/html
+RUN ./var/www/html
